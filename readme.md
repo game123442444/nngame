@@ -3,7 +3,7 @@
 深入交流请联系我
 
 安装：
-  bb.txt配置文件可配置ip,端口等
+  bb.txt配置文件可配置ip,端口等拷到c盘
   jqiren.exe 机器人后台点击即可运行
   app-debug.apk Android安装包
   
